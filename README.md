@@ -1,10 +1,11 @@
 # shell-script-project-deploy-ecommerce-website
 
-## ----- E-Commerce Application deployment using a shell script ----- ##
+# E-Commerce Application deployment using a shell script #
 
 ```
-This is a fictional online store that sells electronic devices
-Its a LAMP stack application deployed on a single Linux server (Centos) node with Apache server and uses MariaDB database & PHP.
+This is a fictional online store that sells electronic devices. Its a LAMP 
+stack application deployed on a single Linux server (Centos) node with
+Apache server and uses MariaDB database & PHP.
 
 ```
 The script does the following:
