@@ -27,3 +27,8 @@ The script does the following:
 * Download the code from github using git (and install git if not already installed on the machine)
 
 ```
+
+https://google.github.io/styleguide/shellguide.html
+https://www.tecmint.com/useful-tips-for-writing-bash-scripts-in-linux/
+https://www.looklinux.com/how-to-connect-mysql-server-without-password-prompt/
+
