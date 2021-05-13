@@ -28,8 +28,4 @@ The script does the following:
 
 ```
 
-```
-https://google.github.io/styleguide/shellguide.html
-https://www.tecmint.com/useful-tips-for-writing-bash-scripts-in-linux/
-https://www.looklinux.com/how-to-connect-mysql-server-without-password-prompt/
-```
+
